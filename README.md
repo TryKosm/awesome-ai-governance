@@ -56,3 +56,16 @@ Tracing, metrics, and event pipelines you can route AI workflow telemetry throug
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — Open-source LLM observability with traces and evals.
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) — OpenTelemetry instrumentation for LLM applications.
 
+
+## Workflow orchestration
+
+When agent flows get past the chat-loop stage, you need durable execution.
+
+- [temporalio/temporal](https://github.com/temporalio/temporal) — Durable execution platform. The de facto choice for long-running agent workflows.
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) — Uber's fault-tolerant orchestrator; sibling project to Temporal.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) — Kubernetes-native workflow engine. Strong for ML/AI pipelines.
+- [dagger/dagger](https://github.com/dagger/dagger) — Programmable CI/CD and pipeline engine; useful for governed build pipelines around AI services.
+- [kedacore/keda](https://github.com/kedacore/keda) — Event-driven autoscaling for Kubernetes; pairs with workflow engines for bursty agent loads.
+- [apache/airflow](https://github.com/apache/airflow) — Mature DAG orchestrator; widely used for governed batch AI pipelines.
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) — Modern Python-native workflow orchestrator.
+
