@@ -82,3 +82,17 @@ Where the requesters of governed actions actually come from.
 - [langgenius/dify](https://github.com/langgenius/dify) — Visual LLM app development platform.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Original autonomous agent project; useful as a reference design point.
 
+
+## LLM safety & red-teaming
+
+The empirical side of "what can go wrong" — required reading before you trust an agent with policy.
+
+- [leondz/garak](https://github.com/leondz/garak) — LLM vulnerability scanner. Probes for hallucination, prompt injection, leakage, etc.
+- [protectai/llm-guard](https://github.com/protectai/llm-guard) — Comprehensive LLM input/output security toolkit.
+- [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) — Programmable guardrails for conversational LLM applications.
+- [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) — Python framework for adding validation and structure to LLM outputs.
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) — Evaluation framework for LLM applications, including safety metrics.
+- [openai/evals](https://github.com/openai/evals) — Framework and registry of benchmarks for evaluating LLM behavior.
+- [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — Standard harness for LM evaluation across tasks.
+- **Papers:** [Universal and Transferable Adversarial Attacks on Aligned LLMs (Zou et al., 2023)](https://arxiv.org/abs/2307.15043), [Prompt Injection attack against LLM-integrated Applications (Liu et al., 2023)](https://arxiv.org/abs/2306.05499), [Constitutional AI (Anthropic, 2022)](https://arxiv.org/abs/2212.08073).
+
