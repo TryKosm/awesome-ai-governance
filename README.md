@@ -69,3 +69,16 @@ When agent flows get past the chat-loop stage, you need durable execution.
 - [apache/airflow](https://github.com/apache/airflow) — Mature DAG orchestrator; widely used for governed batch AI pipelines.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) — Modern Python-native workflow orchestrator.
 
+
+## Agent frameworks
+
+Where the requesters of governed actions actually come from.
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — Most-adopted agent / LLM framework. Wide ecosystem.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) — Data framework for LLM applications. Strong RAG primitives.
+- [microsoft/autogen](https://github.com/microsoft/autogen) — Multi-agent conversation framework from Microsoft Research.
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — Role-based multi-agent orchestration.
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) — Programming with foundation models, with optimization over prompts.
+- [langgenius/dify](https://github.com/langgenius/dify) — Visual LLM app development platform.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Original autonomous agent project; useful as a reference design point.
+
