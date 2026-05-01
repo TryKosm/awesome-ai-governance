@@ -31,3 +31,15 @@ Policy-as-code: encode "what is allowed" once, evaluate it consistently from any
 - [ory/keto](https://github.com/ory/keto) — Open-source implementation of Google's Zanzibar.
 - [permitio/permit-python](https://github.com/permitio/permit-python) — Permit.io Python SDK for attribute-based access control in backend services.
 
+
+## Audit & supply-chain integrity
+
+Tamper-evident logs and provenance you can actually defend in an audit.
+
+- [sigstore/cosign](https://github.com/sigstore/cosign) — Container signing, verification, and storage in an OCI registry. The reference for software signing.
+- [in-toto/in-toto](https://github.com/in-toto/in-toto) — Framework for securing the integrity of software supply chains.
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) — Supply-chain Levels for Software Artifacts: a security framework with progressive levels.
+- [tektoncd/chains](https://github.com/tektoncd/chains) — Build provenance and signed metadata for Tekton pipelines.
+- [guacsec/guac](https://github.com/guacsec/guac) — Aggregates and queries software supply-chain metadata.
+- [transparency-dev/trillian](https://github.com/transparency-dev/trillian) — Transparent, append-only log infrastructure.
+
