@@ -43,3 +43,16 @@ Tamper-evident logs and provenance you can actually defend in an audit.
 - [guacsec/guac](https://github.com/guacsec/guac) — Aggregates and queries software supply-chain metadata.
 - [transparency-dev/trillian](https://github.com/transparency-dev/trillian) — Transparent, append-only log infrastructure.
 
+
+## Observability for AI
+
+Tracing, metrics, and event pipelines you can route AI workflow telemetry through.
+
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) — Vendor-neutral telemetry pipeline. Use it as the gateway for traces, metrics, logs.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) — High-performance observability data pipeline. Excellent for shaping audit / event streams.
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) — Time-series metrics. The default for SLO-backed AI service dashboards.
+- [grafana/grafana](https://github.com/grafana/grafana) — Visualization layer for metrics, traces, and logs.
+- [grafana/loki](https://github.com/grafana/loki) — Log aggregation system; pairs well with Grafana for audit drilldown.
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — Open-source LLM observability with traces and evals.
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) — OpenTelemetry instrumentation for LLM applications.
+
