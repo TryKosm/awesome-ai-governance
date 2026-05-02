@@ -1,6 +1,6 @@
-# Awesome AI Governance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Ai Governance
 
-> A curated list of high-quality projects, papers, and primitives for building **governed AI systems** — policy-as-code, approvals, audit trail, supply-chain integrity, observability, workflow orchestration, agent frameworks, and LLM safety research.
+Curated list for policy-as-code, audit, agents, and LLM safety.
 
 This list exists because the AI tooling space is huge and noisy, but the slice that actually matters for production agent systems — *can this action be allowed, who approves it, what was decided, and can we replay it?* — is scattered across dozens of communities. The goal is to keep this list small, opinionated, and useful for engineers building real systems.
 
