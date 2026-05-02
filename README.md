@@ -96,3 +96,18 @@ The empirical side of "what can go wrong" — required reading before you trust 
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — Standard harness for LM evaluation across tasks.
 - **Papers:** [Universal and Transferable Adversarial Attacks on Aligned LLMs (Zou et al., 2023)](https://arxiv.org/abs/2307.15043), [Prompt Injection attack against LLM-integrated Applications (Liu et al., 2023)](https://arxiv.org/abs/2306.05499), [Constitutional AI (Anthropic, 2022)](https://arxiv.org/abs/2212.08073).
 
+
+## Contributing
+
+Contributions are welcome. Before opening a PR:
+
+1. Make sure the project has been actively maintained in the last 12 months.
+2. Make sure the entry is more than a wrapper around an existing entry on this list.
+3. Keep the description to one line, focused on **what it does** and **why it belongs in a governance/AI-infra context**.
+4. Add the entry to the most relevant section, alphabetized within reason.
+
+Open a PR with the addition and a short note on why it qualifies. PRs that add affiliate links, vendor-only solutions without a real OSS surface, or duplicates will be closed.
+
+## License
+
+This curated list is licensed under the MIT License — see [`LICENSE`](LICENSE).
