@@ -50,6 +50,7 @@ Tracing, metrics, and event pipelines you can route AI workflow telemetry throug
 - [grafana/grafana](https://github.com/grafana/grafana) — Visualization layer for metrics, traces, and logs.
 - [grafana/loki](https://github.com/grafana/loki) — Log aggregation system; pairs well with Grafana for audit drilldown.
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — Open-source LLM observability with traces and evals.
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) — Local AI coding agent session telemetry for cost, tokens, latency, failures, health, and reports.
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) — OpenTelemetry instrumentation for LLM applications.
 
 ## Workflow orchestration
