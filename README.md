@@ -94,6 +94,7 @@ The empirical side of "what can go wrong" — required reading before you trust 
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) — Evaluation framework for LLM applications, including safety metrics.
 - [openai/evals](https://github.com/openai/evals) — Framework and registry of benchmarks for evaluating LLM behavior.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — Standard harness for LM evaluation across tasks.
+- [Charbelto/loopguard](https://github.com/Charbelto/loopguard)  A lightweight, zero-dependency Python framework-agnostic loop prevention and agentic guardrails engine.
 - **Papers:** [Universal and Transferable Adversarial Attacks on Aligned LLMs (Zou et al., 2023)](https://arxiv.org/abs/2307.15043), [Prompt Injection attack against LLM-integrated Applications (Liu et al., 2023)](https://arxiv.org/abs/2306.05499), [Constitutional AI (Anthropic, 2022)](https://arxiv.org/abs/2212.08073).
 
 
