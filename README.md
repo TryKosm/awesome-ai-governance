@@ -42,6 +42,7 @@ Tamper-evident logs and provenance you can actually defend in an audit.
 - [tektoncd/chains](https://github.com/tektoncd/chains) — Build provenance and signed metadata for Tekton pipelines.
 - [guacsec/guac](https://github.com/guacsec/guac) — Aggregates and queries software supply-chain metadata.
 - [transparency-dev/trillian](https://github.com/transparency-dev/trillian) — Transparent, append-only log infrastructure.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — On-chain agent wallet trust scoring on Solana. Query verifiable reputation history, behavioral risk flags, and transaction patterns for autonomous agent identities. Issues signed trust receipts (on-chain) via x402 micropayments. MCP endpoint at `https://intel.twzrd.xyz/mcp`.
 
 
 ## Observability for AI
