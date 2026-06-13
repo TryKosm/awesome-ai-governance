@@ -4,8 +4,7 @@ Curated list for policy-as-code, audit, agents, and LLM safety.
 
 This list exists because the AI tooling space is huge and noisy, but the slice that actually matters for production agent systems — *can this action be allowed, who approves it, what was decided, and can we replay it?* — is scattered across dozens of communities. The goal is to keep this list small, opinionated, and useful for engineers building real systems.
 
-Part of the [TryKosm](https://github.com/TryKosm) open-source collection.
-
+Part of the [NotPBShaw](https://github.com/NotPBShaw) open-source collection.
 
 ## Contents
 
@@ -16,7 +15,6 @@ Part of the [TryKosm](https://github.com/TryKosm) open-source collection.
 - [Agent frameworks](#agent-frameworks)
 - [LLM safety & red-teaming](#llm-safety--red-teaming)
 - [Contributing](#contributing)
-
 
 ## Policy engines
 
@@ -31,7 +29,6 @@ Policy-as-code: encode "what is allowed" once, evaluate it consistently from any
 - [ory/keto](https://github.com/ory/keto) — Open-source implementation of Google's Zanzibar.
 - [permitio/permit-python](https://github.com/permitio/permit-python) — Permit.io Python SDK for attribute-based access control in backend services.
 
-
 ## Audit & supply-chain integrity
 
 Tamper-evident logs and provenance you can actually defend in an audit.
@@ -42,7 +39,6 @@ Tamper-evident logs and provenance you can actually defend in an audit.
 - [tektoncd/chains](https://github.com/tektoncd/chains) — Build provenance and signed metadata for Tekton pipelines.
 - [guacsec/guac](https://github.com/guacsec/guac) — Aggregates and queries software supply-chain metadata.
 - [transparency-dev/trillian](https://github.com/transparency-dev/trillian) — Transparent, append-only log infrastructure.
-
 
 ## Observability for AI
 
@@ -56,7 +52,6 @@ Tracing, metrics, and event pipelines you can route AI workflow telemetry throug
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — Open-source LLM observability with traces and evals.
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) — OpenTelemetry instrumentation for LLM applications.
 
-
 ## Workflow orchestration
 
 When agent flows get past the chat-loop stage, you need durable execution.
@@ -68,7 +63,6 @@ When agent flows get past the chat-loop stage, you need durable execution.
 - [kedacore/keda](https://github.com/kedacore/keda) — Event-driven autoscaling for Kubernetes; pairs with workflow engines for bursty agent loads.
 - [apache/airflow](https://github.com/apache/airflow) — Mature DAG orchestrator; widely used for governed batch AI pipelines.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) — Modern Python-native workflow orchestrator.
-
 
 ## Agent frameworks
 
@@ -82,7 +76,6 @@ Where the requesters of governed actions actually come from.
 - [langgenius/dify](https://github.com/langgenius/dify) — Visual LLM app development platform.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Original autonomous agent project; useful as a reference design point.
 
-
 ## LLM safety & red-teaming
 
 The empirical side of "what can go wrong" — required reading before you trust an agent with policy.
@@ -95,7 +88,6 @@ The empirical side of "what can go wrong" — required reading before you trust 
 - [openai/evals](https://github.com/openai/evals) — Framework and registry of benchmarks for evaluating LLM behavior.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — Standard harness for LM evaluation across tasks.
 - **Papers:** [Universal and Transferable Adversarial Attacks on Aligned LLMs (Zou et al., 2023)](https://arxiv.org/abs/2307.15043), [Prompt Injection attack against LLM-integrated Applications (Liu et al., 2023)](https://arxiv.org/abs/2306.05499), [Constitutional AI (Anthropic, 2022)](https://arxiv.org/abs/2212.08073).
-
 
 ## Contributing
 
