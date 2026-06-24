@@ -39,6 +39,7 @@ Tamper-evident logs and provenance you can actually defend in an audit.
 - [tektoncd/chains](https://github.com/tektoncd/chains) — Build provenance and signed metadata for Tekton pipelines.
 - [guacsec/guac](https://github.com/guacsec/guac) — Aggregates and queries software supply-chain metadata.
 - [transparency-dev/trillian](https://github.com/transparency-dev/trillian) — Transparent, append-only log infrastructure.
+- [arian-gogani/nobulex](https://github.com/arian-gogani/nobulex) — Cryptographic receipt layer for AI agent actions. Bilateral admission/outcome receipts joined by a content-derived `action_ref`, Ed25519 over RFC 8785 JCS canonical bytes. Independently verifiable against the agent's published Ed25519 public key. Targets EU AI Act Article 12 requirements.
 
 ## Observability for AI
 
