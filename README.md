@@ -74,6 +74,7 @@ Where the requesters of governed actions actually come from.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — Role-based multi-agent orchestration.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) — Programming with foundation models, with optimization over prompts.
 - [langgenius/dify](https://github.com/langgenius/dify) — Visual LLM app development platform.
+- [yanghao1143/rust-norion](https://github.com/yanghao1143/rust-norion) — Rust prototype for agent runtime governance, memory gates, model routing policy, and audit-first evolution workflows.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Original autonomous agent project; useful as a reference design point.
 
 ## LLM safety & red-teaming
