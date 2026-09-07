@@ -39,6 +39,7 @@ Tamper-evident logs and provenance you can actually defend in an audit.
 - [tektoncd/chains](https://github.com/tektoncd/chains) — Build provenance and signed metadata for Tekton pipelines.
 - [guacsec/guac](https://github.com/guacsec/guac) — Aggregates and queries software supply-chain metadata.
 - [transparency-dev/trillian](https://github.com/transparency-dev/trillian) — Transparent, append-only log infrastructure.
+- [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) — Commit-time audit harness for AI coding agents: 24 git-diff rules, HMAC-chained tamper-evident audit logs, and snapshot rollback, installed as a git hook.
 
 ## Observability for AI
 
